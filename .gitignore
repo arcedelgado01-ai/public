@@ -1,0 +1,17 @@
+﻿*
+!.gitignore
+
+!wp-content/
+wp-content/*
+
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/SA V1/
+!wp-content/themes/SA V1/**
+
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/ardensa-banner/
+!wp-content/plugins/ardensa-banner/**
+!wp-content/plugins/ardensa-mailer/
+!wp-content/plugins/ardensa-mailer/**
